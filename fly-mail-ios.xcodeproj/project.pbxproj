@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E34154352D3FA686007A6A80 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E34154342D3FA686007A6A80 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		E34154192D3FA4D9007A6A80 /* fly-mail-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fly-mail-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E34154342D3FA686007A6A80 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		E34154102D3FA4D9007A6A80 = {
 			isa = PBXGroup;
 			children = (
+				E34154342D3FA686007A6A80 /* .gitignore */,
 				E341541B2D3FA4D9007A6A80 /* fly-mail-ios */,
 				E341541A2D3FA4D9007A6A80 /* Products */,
 			);
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E34154352D3FA686007A6A80 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
